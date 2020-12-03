@@ -1,2 +1,3 @@
-# new-website
-a new practice website
+# My Website
+
+This will work as a new practice website
